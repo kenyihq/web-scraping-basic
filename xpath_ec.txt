@@ -1,0 +1,12 @@
+Notice link
+
+$x('//div[@class="story-item__information-box w-full"]/h2/a/@href')
+
+
+Notice title
+
+$x('//div[@class="f just-center"]/div[@class="st-sidebar__container f f-col w-full pos-rel"]/h1[@class="sht__title"]/text()')
+
+Notice body
+
+$x('//section/p[@class="story-contents__font-paragraph "]/text()')
